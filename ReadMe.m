@@ -1,4 +1,4 @@
-## Setup
+## Testing Automating Spinning VWA using Kali and Vagrent
 
 > You can find some less common installation variations in
 > [the _Running OWASP Juice Shop_ documentation](https://pwning.owasp-juice.shop/part1/running.html).
